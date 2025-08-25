@@ -14,3 +14,6 @@ Explored different CodeDeployment features.**
 ## Certifications Completed
 
 Introduction to Generative AI - Art of the Possible
+
+
+<img width="1233" height="335" alt="image" src="https://github.com/user-attachments/assets/51964116-63c0-4bd0-afc5-173a9de566ce" />
